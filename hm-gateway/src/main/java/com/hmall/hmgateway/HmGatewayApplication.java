@@ -9,6 +9,5 @@ public class HmGatewayApplication {
     public static void main(String[] args) {
         SpringApplication.run(HmGatewayApplication.class, args);
     }
-    aaa
 
 }
