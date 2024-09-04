@@ -1,10 +1,10 @@
-package com.hmall.hmgateway;
+package com.hmall.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HmGatewayApplicationTests {
+class GatewayApplicationTests {
 
     @Test
     void contextLoads() {
